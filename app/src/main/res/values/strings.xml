@@ -1,5 +1,13 @@
 <resources>
     <string name="app_name">Formal Elements Randomizer</string>
+    <!-- Menu & Navigation-->
     <string name="title_home">Home</string>
     <string name="title_history">History</string>
+    <!-- Home Strings -->
+    <string name="home_title">Formal Elements</string>
+    <string name="home_players">Players</string>
+    <string name="home_objectives">Objectives</string>
+    <string name="home_resources">Resources</string>
+    <string name="home_conflicts">Conflicts</string>
+    <string name="home_randomize">Randomize</string>
 </resources>

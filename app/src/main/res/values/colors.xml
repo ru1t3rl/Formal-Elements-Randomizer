@@ -12,4 +12,5 @@
     <color name="secondaryDarkColor">#4bacb8</color>
     <color name="primaryTextColor">#fafafa</color>
     <color name="secondaryTextColor">#fafafa</color>
+    <color name="menuTextColor">#212121</color>
 </resources>
