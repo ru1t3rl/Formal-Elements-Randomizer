@@ -52,6 +52,8 @@
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cardPlayers"
+                android:minHeight="210dp"
+                android:minWidth="150dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
@@ -99,6 +101,8 @@
                 android:id="@+id/cardObjectives"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:minHeight="210dp"
+                android:minWidth="150dp"
                 android:layout_margin="10dp"
                 app:cardElevation="10dp"
                 app:contentPadding="12dp">
@@ -152,6 +156,8 @@
                 android:id="@+id/cardResources"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:minHeight="210dp"
+                android:minWidth="150dp"
                 android:layout_margin="10dp"
                 app:cardElevation="10dp"
                 app:contentPadding="12dp">
@@ -197,6 +203,8 @@
                 android:id="@+id/cardConflicts"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:minHeight="210dp"
+                android:minWidth="150dp"
                 android:layout_margin="10dp"
                 app:cardElevation="10dp"
                 app:contentPadding="12dp">
